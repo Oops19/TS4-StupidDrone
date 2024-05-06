@@ -1,13 +1,14 @@
-# The Stupid Drone
+# Inappropriate Drone Recordings
 
-The TS4 'Drone' will no longer be monitored and stopped by TS4 AI when sims do 'inappropriate' things which should never be recorded or streamed.
-
-'Get Famous' and other sims can no live-stream also while showering or woohoo as expected by the sims 'reality tv' audience.  
+The TS4 'Drone' will no longer be monitored and stop if sims to do 'inappropriate' things which should not be recorded.
 
 ### Technical details
-The TS4 drone records or streams nothing. After 'recording' it creates an object with a title and description. Nothing changes here.
+The TS4 drone records nothing. It only creates an object with a title and description.
 
-Resetting a sim will also reset the drone attached to it and stop recording or streaming.
+This mod overrides two functions in PrivacyService: add_vehicle_to_monitor() and remove_vehicle_to_monitor().
+
+Resetting a sim will also reset the drone attached to it and stop recording / streaming.
+
 
 
 # Addendum
