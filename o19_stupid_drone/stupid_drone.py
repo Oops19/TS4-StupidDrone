@@ -8,7 +8,7 @@ from o19_stupid_drone.modinfo import ModInfo
 from interactions.privacy import PrivacyService
 
 from sims4communitylib.utils.common_injection_utils import CommonInjectionUtils
-from sims4communitylib.utils.common_log_registry import CommonLogRegistry, CommonLog
+from sims4communitylib.utils.common_log_registry import CommonLog, CommonLogRegistry
 
 log: CommonLog = CommonLogRegistry.get().register_log(ModInfo.get_identity(), ModInfo.get_identity().base_namespace)
 log.enable()
