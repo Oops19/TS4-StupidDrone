@@ -38,6 +38,8 @@ class ModInfo(CommonModInfo):
 
 
 """
+v1.4.1
+    Tested with TS4 v1.107
 v1.4.0
     Updated compile script.
     Added documentation.
