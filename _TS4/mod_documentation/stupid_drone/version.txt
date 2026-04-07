@@ -1,5 +1,5 @@
-StupidDrone v1.4.1 for The Sims 4 v1.121.372 and S4CL v3.20
-Created on 2026-03-16
-v1.4.1
-    Tested with TS4 v1.107
+StupidDrone v1.4.2 for The Sims 4 v1.122.218 and S4CL v3.20
+Created on 2026-04-07
+v1.4.2
+    Tested with TS4 v1.122
 

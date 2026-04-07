@@ -34,10 +34,12 @@ class ModInfo(CommonModInfo):
 
     @property
     def _version(self) -> str:
-        return '1.4.1'
+        return '1.4.2'
 
 
 """
+v1.4.2
+    Tested with TS4 v1.122
 v1.4.1
     Tested with TS4 v1.107
 v1.4.0
